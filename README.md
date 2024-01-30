@@ -31,7 +31,7 @@ Follow these steps to get SortVista-Visualizing_Sorting_Algorithm up and running
 
 1. **Clone the Repository:**
    ```bash
-   git clone 
+   git clone https://github.com/14-sahil/SortVista-Sorting-Visualizer.git
    cd SortVista-Visualizing_Sorting_Algorithm
    ```
 
