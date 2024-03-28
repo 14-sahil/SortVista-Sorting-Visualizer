@@ -41,7 +41,7 @@ export function NavBar() {
         }}
       >
         <h3>Sorting Algorithms Visualizer</h3>
-        <a href=" https://github.com/suraj1849/SortingAlgo_Visualizer" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
+        <a href="" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
       </div>
       <AppBar position="static" color="default">
         <Tabs
