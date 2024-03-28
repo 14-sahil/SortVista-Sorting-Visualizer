@@ -14,7 +14,7 @@ export function Footer() {
   return (
     <FooterDiv>
      <p>
-      Team Members :*Suraj Patil *Dhruv Sawant *Khushi Raval *Piyush Shah *Shreya *Dhruv Saini
+     <b> @Sahil Karamkar</b>
      </p>
     </FooterDiv>
   );
